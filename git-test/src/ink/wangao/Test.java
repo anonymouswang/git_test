@@ -20,5 +20,7 @@ public class Test {
             System.out.print(i+"  ");
         }
 
+        System.out.println("修改");
+
     }
 }
